@@ -1,1 +1,3 @@
-# Sound-Bites
+# SoundBites
+
+SoundBites is a short audio platform.
